@@ -1,0 +1,10 @@
+local items = {}
+items[1] = spell.itemList()
+items[1][1] = {1039,325,3106,3154,3160} -- machete
+items[1][2] = {3106,450,3154,3160} -- madreds
+items[2] = spell.itemList()
+items[2][1] = {1080,700,3154,3160} -- spirit stone
+items[3] = spell.itemList()
+items[3][1] = {1042,450,3154,3160} -- dagger
+items[3][2] = {1036,360,3154,3160} -- sword
+items[3][3] = {3154,240,3160} -- lantern
